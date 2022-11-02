@@ -1,0 +1,28 @@
+a:hover
+{
+    border-radius: 100%;
+}
+.as:hover
+{
+    border: 1px solid rgb(0, 236, 106);
+    background-color: rgb(53, 201, 181);
+    border-radius: 30%;
+   
+}
+.im:hover
+{
+    border: 3px solid rgb(255, 255, 255);
+    background-color: rgb(37, 161, 32);
+    border-radius: 40%;
+}
+.b:hover
+{
+    border: 3px solid rgb(254, 255, 254);
+    background-color: rgb(37, 161, 32);
+    border-radius: 40%;
+    
+}
+.g:hover
+{
+    color: brown;
+}
